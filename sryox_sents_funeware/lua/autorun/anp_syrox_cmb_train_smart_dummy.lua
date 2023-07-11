@@ -134,7 +134,7 @@ local NPCTab = {
 ----------------------------------------------------------------- Increase or decrease NPC's damage output. The lowest is -100 (%) and it can go as high as you wish (be reasonable).
 	['DamageDealtScale'] 		= 50, --%, 0 is default.
 ----------------------------------------------------------------- Increase or decrease NPC's self damage. The lowest is -100 (%) and it can go as high as you wish (be reasonable).
-	['DamageSelfScale'] 		= -20, --%, 0 is default.
+	['DamageSelfScale'] 		= -50, --%, 0 is default.
 ----------------------------------------------------------------- This table allows you to increase or decrease NPC's resistances based on body part hit or damage type.	
 
 	['DamageTakenScale'] = {
